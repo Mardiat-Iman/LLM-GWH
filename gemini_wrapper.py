@@ -16,4 +16,4 @@ def generate_gemini_text(prompt, tokens):
          )
     )
 
-    return (response.text)
+    st.text(response.text)

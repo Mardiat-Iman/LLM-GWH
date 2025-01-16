@@ -17,7 +17,7 @@ def generate_text(prompt):
         {"role": "user", "content": prompt}
         ]
     ) 
-    return completion.choices[0].message.content
+    st.write(completion.choices[0].message.content)
 
 #function to generate image from prompts using DALL-E
 def generate_image(prompt):
