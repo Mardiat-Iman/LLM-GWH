@@ -1,2 +1,2 @@
-I attended the Global Hack Week-Beginners week where i attended a stream on LLMs.
-This porject shows what was learnt
+I attended the Global Hack Week-Beginners Week and participated in a stream on LLMs.
+This project uses streamlit to create a simple web app with a GPT and Gemini wrapper.
